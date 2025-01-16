@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/interactive-rating-component-me08BIkhik)
 - Live Site URL: [Vercel](https://interactive-rating-component-one-umber.vercel.app/)
 
 ## My process
