@@ -49,8 +49,8 @@ Users should be able to:
 
 
 ```js
- const ratings = document.querySelectorAll('input[name="rating"]');
-  const selectedRatingElement = Array.from(ratings).find((rating) => rating.checked);
+const ratings = document.querySelectorAll('input[name="rating"]');
+const selectedRatingElement = Array.from(ratings).find((rating) => rating.checked);
 ```
 
 ## Author
