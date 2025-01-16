@@ -61,6 +61,4 @@ const selectedRatingElement = Array.from(ratings).find((rating) => rating.checke
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+I would like to thank GitHub Copilot for assisting in improving the interaction script for the rating component. The AI suggestions helped streamline the code and enhance the user experience.
